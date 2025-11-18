@@ -1,7 +1,7 @@
 body{
     background-image: url(./asset/background.avif);
     background-size: cover;
-    font-size: 18px;
+    font-size: 15px;
 }
 button{
     padding: 10px;
@@ -13,4 +13,5 @@ button:hover{
 }
 label{
     padding: 20px;
+
 }
