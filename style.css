@@ -1,0 +1,16 @@
+body{
+    background-image: url(./asset/background.avif);
+    background-size: cover;
+    font-size: 18px;
+}
+button{
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 20px;
+}
+button:hover{
+    background-color: lightgray;
+}
+label{
+    padding: 20px;
+}
